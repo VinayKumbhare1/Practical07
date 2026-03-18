@@ -2,78 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tribute Page - Dr. A.P.J. Abdul Kalam</title>
-
-  <style>
-
-    /* Page Styling */
-    body{
-      margin:0;
-      font-family: Arial, sans-serif;
-      background:#f4f4f4;
-    }
-
-    /* Navigation Bar */
-    .navbar{
-      background:#222;
-      padding:15px;
-      text-align:center;
-    }
-
-    .navbar a{
-      color:white;
-      text-decoration:none;
-      margin:0 20px;
-      font-size:14px;
-    }
-
-    .navbar a:hover{
-      color:orange;
-    }
-
-    /* Header Section */
-    .header{
-      background:#003366;
-      color:white;
-      text-align:center;
-      padding:40px;
-    }
-
-    /* Main Content Layout */
-    .container{
-      width:80%;
-      margin:auto;
-      padding:20px;
-    }
-
-    /* Image Styling */
-    .profile-img{
-      display:block;
-      margin:auto;
-      width:200px;
-      border:5px solid #333;
-      border-radius:10px;
-    }
-
-    /* Section Styling */
-    .section{
-      background:white;
-      padding:20px;
-      margin-top:20px;
-      border:2px solid #ddd;
-      border-radius:5px;
-    }
-    
-    /* Footer */
-    .footer{
-      background:#222;
-      color:white;
-      text-align:center;
-      padding:15px;
-      margin-top:20px;
-    }
-
-  </style>
+  
 </head>
 
 <body>
